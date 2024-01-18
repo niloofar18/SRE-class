@@ -1,2 +1,2 @@
 # SRE-class
-Repository to SRE training 
+Repository for the SRE training 
